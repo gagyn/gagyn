@@ -1,4 +1,11 @@
-### Hi there 👋
+## Welcome 👋
+
+I'm Mateusz!  
+I love to write software using **.NET Core**.  
+I'm currently working 💻 on **[Watchman](https://devscord-team.github.io/Watchman/)** - open source project in a small team.  
+We're developing **Discord bot** 🤖 to make the managment of Discord servers a lot easier!  
+  
+**Feel free to contact me! ✉**
 
 <!--
 **gagyn/gagyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
