@@ -1,23 +1,12 @@
-## Welcome 👋
+## Hello, I'm Mateusz 👋
 
-I'm Mateusz!  
-I love to write software using **.NET Core**.  
-I'm currently working 💻 on **[Watchman](https://devscord-team.github.io/Watchman/)** - open source project in a small team.  
-We're developing **Discord bot** 🤖 to make the managment of Discord servers a lot easier!  
-  
-**Feel free to contact me! ✉**
+I love to write software using **.NET Core** ❤  
+Recently I'm learning a little about Python, while working on [TemperatureProject](https://github.com/gagyn/TemperatureProject)
 
-<!--
-**gagyn/gagyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Currently focusing on  
++ **[Watchman](https://devscord-team.github.io/Watchman/)** - open source project in a small team - We're developing a **Discord bot** 🤖 to make Discord servers managment a lot easier! 😀  
++ **[TemperatureProject](https://github.com/gagyn/TemperatureProject)** - I love statistics about everything, so why not to save a temperature records outside of my house every one minute and access them through API 😄
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Feel free to contact me! ✉
++ **Mail address - strycharz.mateusz0@gmail.com**
++ **LinkedIn - https://www.linkedin.com/in/mateusz-strycharz**
